@@ -1,0 +1,13 @@
+{
+  "name": "Embute.com",
+  "short_name": "Embute",
+  "icons": [{
+        "src": "https://2.bp.blogspot.com/-9PIlqctbC0k/XrX7M6IjKkI/AAAAAAAAJgg/3UBcepUmqF4pvHGHO_LtaGqTJ_dg2ImegCK4BGAYYCw/s1600/embute-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745"
+}
